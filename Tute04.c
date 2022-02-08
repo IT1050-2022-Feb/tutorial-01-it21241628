@@ -27,7 +27,6 @@ int minimum(int n1, int n2) {
     return n1;
   }
   else { return n2; }
-
 }
 
 int maximum(int n1, int n2) {
